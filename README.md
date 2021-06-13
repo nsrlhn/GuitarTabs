@@ -1,3 +1,3 @@
 # GuitarTabs
 
-My guitar tabs in html format using a JavaScript [library](http://jtab.tardate.com).
+This repository is for guitar tabs that I can play. I arrange html page for each song, using a ready-to-use JavaScript [library](http://jtab.tardate.com). I may publish a website in future...
